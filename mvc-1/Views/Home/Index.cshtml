@@ -1,0 +1,28 @@
+﻿@model List<Product>
+
+<h1>Product List</h1>
+<a href="/Home/Create">Create New Product</a>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+
+                    <a href="/Home/Details/@product.Id">Details</a> |
+                    <a href="/Home/Edit/@product.Id">Edit</a> |
+                    <a href="/Home/Delete/@product.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

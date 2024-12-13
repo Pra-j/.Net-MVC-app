@@ -1,0 +1,11 @@
+﻿@model Product
+
+<h1>Edit Product</h1>
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <label>Name:</label>
+    <input type="text" name="Name" value="@Model.Name" />
+    <label>Price:</label>
+    <input type="number" step="0.01" name="Price" value="@Model.Price" />
+    <button type="submit">Save</button>
+</form>
