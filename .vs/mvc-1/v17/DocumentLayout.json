@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\girman\\source\\repos\\mvc-1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34990BC3-C0FE-4D6E-9F18-6705FE87F821}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34990BC3-C0FE-4D6E-9F18-6705FE87F821}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\mvc-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\mvc-1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|c:\\users\\girman\\source\\repos\\mvc-1\\mvc-1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A275AA-AA94-4055-9E5C-C26B2369022E}|mvc-1\\mvc-1.csproj|solutionrelative:mvc-1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +62,169 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "mvc-1\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "mvc-1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T03:04:26.388Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "mvc-1\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Models\\Product.cs",
-              "RelativeToolTip": "mvc-1\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T01:15:18.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "mvc-1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "mvc-1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T01:24:47.284Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Startup.cs",
-              "RelativeDocumentMoniker": "mvc-1\\Startup.cs",
-              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Startup.cs",
-              "RelativeToolTip": "mvc-1\\Startup.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T01:19:48.216Z"
+              "Title": "mvc-1.csproj",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\mvc-1.csproj",
+              "RelativeDocumentMoniker": "mvc-1\\mvc-1.csproj",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\mvc-1.csproj",
+              "RelativeToolTip": "mvc-1\\mvc-1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T01:44:20.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:45:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "mvc-1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "mvc-1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T01:39:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:35:08.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:35:06.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:35:03.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:31:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Program.cs",
               "RelativeDocumentMoniker": "mvc-1\\Program.cs",
               "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Program.cs",
               "RelativeToolTip": "mvc-1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T01:18:10.197Z"
+              "WhenOpened": "2024-12-18T01:33:18.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:28:19.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:27:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:21:24.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\girman\\source\\repos\\mvc-1\\mvc-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T01:21:10.723Z"
             }
           ]
         }

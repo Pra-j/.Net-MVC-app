@@ -43,3 +43,4 @@ C:\Users\girman\source\repos\mvc-1\mvc-1\obj\Debug\netcoreapp3.1\Razor\Views\Hom
 C:\Users\girman\source\repos\mvc-1\mvc-1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
 C:\Users\girman\source\repos\mvc-1\mvc-1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
 C:\Users\girman\source\repos\mvc-1\mvc-1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\girman\source\repos\mvc-1\mvc-1\obj\Debug\netcoreapp3.1\mvc-1.sourcelink.json
